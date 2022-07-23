@@ -1,0 +1,48 @@
+body{
+    /* background-image: url(./style/Assets/dragon-scales.png); */
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1000%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M1011.5742342130686 130.9391683699542L1200.9277925744404 121.19651351268608 1113.0969890867004-19.362154022163452z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1081.519%2c635.542C1116.85%2c633.848%2c1145.422%2c610.387%2c1163.447%2c579.952C1181.895%2c548.803%2c1191.13%2c511.145%2c1174.125%2c479.185C1156.202%2c445.498%2c1119.634%2c424.153%2c1081.519%2c425.97C1045.966%2c427.665%2c1021.245%2c456.755%2c1003.038%2c487.339C984.248%2c518.903%2c967.565%2c556.055%2c984.756%2c588.517C1002.744%2c622.485%2c1043.126%2c637.382%2c1081.519%2c635.542' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M549.45%2c509.311C567.306%2c510.225%2c586.024%2c504.435%2c595.235%2c489.111C604.677%2c473.403%2c601.99%2c453.497%2c592.379%2c437.892C583.244%2c423.059%2c566.869%2c414.922%2c549.45%2c414.771C531.741%2c414.617%2c513.711%2c421.598%2c505.209%2c437.134C496.97%2c452.189%2c502.153%2c470.174%2c511.122%2c484.806C519.616%2c498.663%2c533.218%2c508.48%2c549.45%2c509.311' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M939.226%2c387.326C990.88%2c387.324%2c1043.264%2c370.939%2c1070.702%2c327.175C1099.759%2c280.828%2c1101.778%2c220.55%2c1072.921%2c174.078C1045.407%2c129.769%2c991.381%2c115.682%2c939.226%2c115.441C886.54%2c115.198%2c831.174%2c128.076%2c803.379%2c172.835C774.277%2c219.699%2c778.219%2c280.579%2c807.736%2c327.183C835.376%2c370.824%2c887.568%2c387.328%2c939.226%2c387.326' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1486.485%2c229.137C1532.805%2c228.585%2c1570.476%2c195.658%2c1592.975%2c155.166C1614.758%2c115.963%2c1617.453%2c69.771%2c1597.299%2c29.705C1574.756%2c-15.11%2c1536.556%2c-53.453%2c1486.485%2c-56.532C1431.39%2c-59.92%2c1374.638%2c-34.562%2c1349.254%2c14.454C1325.318%2c60.673%2c1347.477%2c113.9%2c1375.51%2c157.755C1400.9%2c197.474%2c1439.347%2c229.698%2c1486.485%2c229.137' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M224.50054067173016 505.5359666060012L326.3195790209715 493.0341606907336 313.81777310570396 391.21512234149225 211.9987347564626 403.71692825675984z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1000'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+  }
+ #p {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    #c {
+        height: 35rem;
+        width: 50rem;
+        
+        /* background-color: aqua; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    #Inner{
+        width: 22rem;
+        background-color: #330055;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 1000'%3E%3Cg %3E%3Ccircle fill='%23330055' cx='50' cy='0' r='50'/%3E%3Cg fill='%233a015d' %3E%3Ccircle cx='0' cy='50' r='50'/%3E%3Ccircle cx='100' cy='50' r='50'/%3E%3C/g%3E%3Ccircle fill='%23410165' cx='50' cy='100' r='50'/%3E%3Cg fill='%2348026e' %3E%3Ccircle cx='0' cy='150' r='50'/%3E%3Ccircle cx='100' cy='150' r='50'/%3E%3C/g%3E%3Ccircle fill='%23500376' cx='50' cy='200' r='50'/%3E%3Cg fill='%2357047e' %3E%3Ccircle cx='0' cy='250' r='50'/%3E%3Ccircle cx='100' cy='250' r='50'/%3E%3C/g%3E%3Ccircle fill='%235f0587' cx='50' cy='300' r='50'/%3E%3Cg fill='%2367068f' %3E%3Ccircle cx='0' cy='350' r='50'/%3E%3Ccircle cx='100' cy='350' r='50'/%3E%3C/g%3E%3Ccircle fill='%236f0798' cx='50' cy='400' r='50'/%3E%3Cg fill='%237707a0' %3E%3Ccircle cx='0' cy='450' r='50'/%3E%3Ccircle cx='100' cy='450' r='50'/%3E%3C/g%3E%3Ccircle fill='%238008a9' cx='50' cy='500' r='50'/%3E%3Cg fill='%238909b1' %3E%3Ccircle cx='0' cy='550' r='50'/%3E%3Ccircle cx='100' cy='550' r='50'/%3E%3C/g%3E%3Ccircle fill='%239109ba' cx='50' cy='600' r='50'/%3E%3Cg fill='%239a09c3' %3E%3Ccircle cx='0' cy='650' r='50'/%3E%3Ccircle cx='100' cy='650' r='50'/%3E%3C/g%3E%3Ccircle fill='%23a309cb' cx='50' cy='700' r='50'/%3E%3Cg fill='%23ad09d4' %3E%3Ccircle cx='0' cy='750' r='50'/%3E%3Ccircle cx='100' cy='750' r='50'/%3E%3C/g%3E%3Ccircle fill='%23b608dc' cx='50' cy='800' r='50'/%3E%3Cg fill='%23c007e5' %3E%3Ccircle cx='0' cy='850' r='50'/%3E%3Ccircle cx='100' cy='850' r='50'/%3E%3C/g%3E%3Ccircle fill='%23c905ee' cx='50' cy='900' r='50'/%3E%3Cg fill='%23d303f6' %3E%3Ccircle cx='0' cy='950' r='50'/%3E%3Ccircle cx='100' cy='950' r='50'/%3E%3C/g%3E%3Ccircle fill='%23D0F' cx='50' cy='1000' r='50'/%3E%3C/g%3E%3C/svg%3E");
+background-attachment: fixed;
+background-size: contain;
+        
+        border-radius: 3rem;
+    }
+    form{
+        text-align: center;
+        color:#000;
+    }
+    input{
+        border-top: 0;
+        border-left: 0;
+        border-right: 0;
+        outline:none;
+    }
+    #submitBtn{
+        margin: 2rem;
+    }
+    h2{
+        color: yellowgreen;
+        font-weight:900;
+        font-family: sans-serif;
+    }
